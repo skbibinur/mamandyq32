@@ -1,0 +1,6 @@
+{
+  "name": "Оңай көмек",
+  "description": "Оқушыларға қызығушылықтары мен қабілеттерін зерттеп, мамандық бағытын таңдауға көмектесетін қазақ тіліндегі профориентациялық веб-платформа.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
